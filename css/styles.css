@@ -12,8 +12,8 @@ body {background-color:var(--fifth-color);
       letter-spacing: 0.02em;}
 
 /* Header */
-.link {text-decoration: none;}
-.list {list-style: none;}
+* {text-decoration: none;
+      list-style: none;}
 
 .header-link {color:var(--third-color);
       font-family: Raleway, sans-serif;
